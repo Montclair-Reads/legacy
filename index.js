@@ -1,5 +1,5 @@
-const issueForm = document.querySelector('.issue-form')
-const issueInput = document.querySelector('issue-input')
+const issueForm = document.querySelector('form')
+const issueInput = document.querySelector('input')
 
 issueForm.addEventListener("submit", e => {
     e.preventDefault()
