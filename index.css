@@ -3,13 +3,7 @@ body {
     height: 100vh;
 }
 
-.issues {
-    display: grid;
-    grid-template-columns: auto auto auto;
-    gap: 4px;
-}
-
 .issue {
-    grid-column-start: 1;
-    grid-column-end: 2;
+    width: 35px;
+    height: auto;
 }
