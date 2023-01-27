@@ -1,3 +1,3 @@
 # Montclair-Reads.github.io
 
-The official ***Montclair Reads*** website.
+The official ***The Red-Tailed Hawks Read*** website.
