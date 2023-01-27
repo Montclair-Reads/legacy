@@ -3,7 +3,6 @@ body {
     height: 100vh;
 }
 
-.issue {
+a {
     width: 35px;
-    height: auto;
 }
