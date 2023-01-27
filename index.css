@@ -6,5 +6,6 @@ body {
 img {
     width: 20vw;
     border: 1px solid #aaa;
-    border-radius: 6px;
+    border-radius: 10px;
+    margin: 6px;
 }
