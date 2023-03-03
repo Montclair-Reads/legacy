@@ -1,3 +1,7 @@
+*, *::after, *::before {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 body {
     width: 100vw;
     height: 100vh;
@@ -9,4 +13,9 @@ img {
     border-radius: 10px;
     margin: 6px;
     margin-left: 0px;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
 }
