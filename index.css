@@ -19,3 +19,8 @@ nav {
     display: flex;
     flex-direction: row;
 }
+
+a {
+    color: #000;
+    text-decoration: none;
+}
