@@ -72,7 +72,7 @@ a {
 .issue > span {
     display: flex;
     justify-content: center;
-    font-size: 100%;
+    font-size: 125%;
 }
 
 .issues {
