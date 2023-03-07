@@ -63,18 +63,7 @@ a {
     text-align: center;
 }
 
-.issue {
-    display: flex;
-    flex-direction: column;
-    width: max-content;
-}
-
-.issue > span {
-    display: flex;
-    justify-content: center;
-    font-size: 100%;
-}
-
-.issues {
+main {
     margin-left: 6px;
+    font-size: 150%;
 }
